@@ -4,7 +4,7 @@
 
 <!DOCTYPE html>
 <html>
-<title>HTML Tutorial</title>
+<title>first</title>
 
 
 <!-- cdn for bootstrap -->
